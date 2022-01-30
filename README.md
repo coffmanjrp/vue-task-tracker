@@ -1,4 +1,6 @@
-# Vue Task Tracker
+# Task Tracker
+
+![Task Tracker](https://res.cloudinary.com/coffmanjrp-dev/image/upload/v1643510224/coffmanjrp.io/task_tracker_08947bd2e1.png)
 
 ## Project setup
 
@@ -29,3 +31,8 @@ npm run dev
 ```
 npm run build
 ```
+
+## Stack
+
+- [Vue.js](https://vuejs.org/)
+- [Vue Router](https://router.vuejs.org/)
